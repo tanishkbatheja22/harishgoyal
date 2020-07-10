@@ -42,7 +42,7 @@ body{
             flex-direction: column;
             justify-content: center;
             background: linear-gradient(250deg,#000 ,#808080,#808080 ,#000);
-            border: 2px solid silver;
+            border: 2px solid #808080;
             position: fixed;
             width: 100%;
                  z-index: 1;
@@ -63,8 +63,8 @@ body{
     line-height: 0.8;
   }
   span9{
-    
-	  font-size:300px;
+    margin-top:20px;
+	  font-size:200px;
     line-height: 1;
     text-transform: uppercase;
     font-family: 'Lato', sans-serif;
@@ -144,11 +144,11 @@ body{
             justify-content: center;
             align-items: center;
             height: 35px;
-        margin-right: 30px;
+        margin-right: 35px;
 }
 .navigation-menu a{
   text-decoration: none;
-            margin: 15px 4px;
+            margin: 12px 2px;
             font-size: 18px;
             color: #fff;
             border: #808080;
