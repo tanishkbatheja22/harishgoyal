@@ -143,19 +143,19 @@ body{
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 30px;
-        margin-right: 35px;
+            height: 25px;
+        margin-right: 40px;
 }
 .navigation-menu a{
   text-decoration: none;
-            margin: 12px 2px;
+            margin: 10px 4px;
             font-size: 13px;
             color: #fff;
             border: #808080;
  
   
     transition: 0.6s ease;
-   border-radius: 5px;
+   border-radius: 3px;
   
 }
 .navigation-menu a:hover{
